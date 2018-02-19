@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ces Assignment</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="close_app">Ok</string>
+    <string name="node_three">Node Three</string>
+    <string name="node_two">Node Two</string>
+    <string name="node_one">Node One</string>
+    <string name="get_gcd">Get GCD</string>
+    <string name="next">Next</string>
+    <string name="enter_number_two">Enter Number Two</string>
+    <string name="enter_number_one">Enter Number One</string>
+    <string name="hash_two">Hash Two</string>
+    <string name="null_string_toast">Please Enter Some Value</string>
+    <string name="gcd_val">GCD value is :</string>
+</resources>
