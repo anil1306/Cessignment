@@ -1,0 +1,18 @@
+
+{
+   "Ad1":[
+      {
+         "NAME":"Christmas Gifs",
+         "IMAGE":"https://oyepaglu.com/wp-content/uploads/2019/12/merry-christmas.gif",
+		 "URL" : "https://play.google.com/store/apps/details?id=com.c17.christmascarols13"
+      }
+	  ],
+	  
+	  "Ad2":[
+      {
+         "NAME":"Christmas Carols",
+         "IMAGE":"https://bestwishesfor.com/wp-content/uploads/2019/12/Merry-Christmas-Animated-Gif-Images.gif",
+		 "URL" : "https://play.google.com/store/apps/details?id=com.christmasgifs.christmas20"
+      }
+	]
+}
