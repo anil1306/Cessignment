@@ -1,1 +1,17 @@
-ddd
+{
+   "Ad1":[
+      {
+         "NAME":"Christmas Carols",
+         "IMAGE":"https://www.dailyexcelsior.com/wp-content/uploads/2019/04/page6.jpg",
+	 "URL" : "https://play.google.com/store/apps/details?id=com.c17.christmascarols13"
+      }
+	  ],
+	  
+	  "Ad2":[
+      {
+         "NAME":"1000+ Stories",
+         "IMAGE":"https://imgk.timesnownews.com/story/A_very_happy_Hanuman_Jayanti_2020.jpg",
+	 "URL" : "https://play.google.com/store/apps/details?id=com.luvugoogle.bedtimestories1"
+      }
+	]
+}
