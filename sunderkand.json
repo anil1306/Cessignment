@@ -1,0 +1,17 @@
+{
+   "Ad1":[
+      {
+         "NAME":"NewYear Wishes GIF",
+         "IMAGE":"https://raw.githubusercontent.com/anil1306/CesAssignment/master/newyearss.webp",
+	 "URL" : "https://play.google.com/store/apps/details?id=com.luvugoogle.newyeargifs1712"
+      }
+	  ],
+	  
+	  "Ad2":[
+      {
+         "NAME":"1000+ Stories",
+         "IMAGE":"https://raw.githubusercontent.com/anil1306/CesAssignment/master/pqr.webp",
+	       "URL" : "https://play.google.com/store/apps/details?id=com.luvugoogle.bedtimestories1"
+      }
+ ]
+}
