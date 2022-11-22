@@ -1,7 +1,7 @@
 {
    "Ad1":[
       {
-         "NAME":"NewYear Wishes GIF",
+         "NAME":"Relax Music",
          "IMAGE":"https://raw.githubusercontent.com/anil1306/Cessignment/master/relax.webp",
 	 "URL" : "https://play.google.com/store/apps/details?id=com.luvgoogle.relaxingmusicforsleep"
       }
@@ -9,7 +9,7 @@
 	  
 	  "Ad2":[
       {
-         "NAME":"1000+ Stories",
+         "NAME":"Bird Ringtones",
          "IMAGE":"https://raw.githubusercontent.com/anil1306/Cessignment/master/bird.webp",
 	       "URL" : "https://play.google.com/store/apps/details?id=com.birds.soundsringtones1"
       }
